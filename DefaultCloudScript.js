@@ -44,6 +44,7 @@ var HelloWorldDefault = function (args, context) {
     if (args && args.inputValue)
         inputValue = args.inputValue;
     log.debug("helloWorld:", { input: args.inputValue });
+    //哈哈哈哈哈哈哈hahahahha
     // The value you return from a Cloud Script function is passed back 
     // to the game client in the ExecuteCloudScript API response, along with any log statements
     // and additional diagnostic information, such as any errors returned by API calls or external HTTP
